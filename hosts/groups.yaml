@@ -4,7 +4,7 @@ all:
       - yarn
       - unsplash-wallpaper
 
-    pip_package:
+    pip_packages:
       - slack-cleaner
       - awscli
 
