@@ -47,3 +47,4 @@ all:
       - python
       - zsh
       - zsh-completions
+      - sbt
