@@ -1,0 +1,51 @@
+all:
+  vars:
+    npm_packages:
+      - yarn
+      - unsplash-wallpaper
+
+    pip_package:
+      - slack-cleaner
+      - awscli
+
+    homebrew_taps:
+      - drone/drone
+      - jtyr/repo
+      - caskroom/cask
+
+    homebrew_cask_packages:
+      - alfred
+      - atom
+      - docker
+      - firefox
+      - google-chrome
+      - slack
+      - firefox
+
+    homebrew_packages:
+      - byobu
+      - openssl
+      - watch
+      - go
+      - kubernetes-cli
+      - kubernetes-helm
+      - wget
+      - docker
+      - htop
+      - telnet
+      - docker-compose
+      - terraform
+      - yarn
+      - docker-machine
+      - youtube-dl
+      - drone
+      - node
+      - python
+      - tree
+      - jq
+      - vault
+      - npm
+      - gbt
+      - python
+      - zsh
+      - zsh-completions
