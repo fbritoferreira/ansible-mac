@@ -15,12 +15,14 @@ all:
 
     homebrew_cask_packages:
       - alfred
-      - atom
       - docker
       - firefox
       - google-chrome
       - slack
       - firefox
+      - iterm2
+      - visual-studio-code-insiders
+      - 1password
 
     homebrew_packages:
       - byobu
@@ -48,3 +50,15 @@ all:
       - zsh
       - zsh-completions
       - sbt
+    
+    vscode_packages:
+      - EditorConfig.EditorConfig
+      - Equinusocio.vsc-material-theme
+      - HookyQR.beautify
+      - PKief.material-icon-theme
+      - dbaeumer.vscode-eslint
+      - dsznajder.es7-react-js-snippets
+      - leveluptutorials.theme-levelup
+      - msjsdiag.debugger-for-chrome
+      - steoates.autoimport
+      - wix.vscode-import-cost
