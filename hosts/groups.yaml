@@ -50,7 +50,7 @@ all:
       - zsh
       - zsh-completions
       - sbt
-    
+
     vscode_packages:
       - EditorConfig.EditorConfig
       - Equinusocio.vsc-material-theme
@@ -62,3 +62,7 @@ all:
       - msjsdiag.debugger-for-chrome
       - steoates.autoimport
       - wix.vscode-import-cost
+
+  mas_packages:
+    - { name: HyperDock, id: 449830122 }
+    - { name: Xcode, id: 497799835 }
