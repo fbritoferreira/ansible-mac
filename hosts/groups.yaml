@@ -63,6 +63,32 @@ all:
       - steoates.autoimport
       - wix.vscode-import-cost
 
+    atom_packages:
+      - atom-jinja2
+      - base64
+      - busy-signal
+      - color-picker
+      - duplicate-removal
+      - go-plus
+      - intentions
+      - language-docker
+      - language-logstash
+      - language-terraform
+      - linter
+      - linter-js-yaml
+      - linter-jsonlint
+      - linter-terraform-semantics
+      - linter-terraform-syntax
+      - linter-ui-default
+      - php-twig
+      - platformio-ide-terminal
+      - pretty-json
+      - sort-lines
+      - split-diff
+      - teletype
+      - terraform-fmt
+      - todo-show
+
     mas_packages:
       - { name: HyperDock, id: 449830122 }
       - { name: Xcode, id: 497799835 }
