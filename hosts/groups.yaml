@@ -90,7 +90,6 @@ all:
       - sort-lines
       - split-diff
       - teletype
-      - terminal-plus
       - terraform-fmt
       - todo-show
 
