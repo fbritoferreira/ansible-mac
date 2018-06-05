@@ -1,17 +1,17 @@
 all:
   vars:
     npm_packages:
-      - yarn
       - unsplash-wallpaper
+      - yarn
 
     pip_packages:
-      - slack-cleaner
       - awscli
+      - slack-cleaner
 
     homebrew_taps:
       - drone/drone
-      - jtyr/repo
       - homebrew/cask
+      - jtyr/repo
 
     homebrew_cask_packages:
       - 1password
@@ -55,14 +55,14 @@ all:
       - zsh-completions
 
     vscode_packages:
+      - dbaeumer.vscode-eslint
+      - dsznajder.es7-react-js-snippets
       - EditorConfig.EditorConfig
       - Equinusocio.vsc-material-theme
       - HookyQR.beautify
-      - PKief.material-icon-theme
-      - dbaeumer.vscode-eslint
-      - dsznajder.es7-react-js-snippets
       - leveluptutorials.theme-levelup
       - msjsdiag.debugger-for-chrome
+      - PKief.material-icon-theme
       - steoates.autoimport
       - wix.vscode-import-cost
 
@@ -87,12 +87,12 @@ all:
       - platformio-ide-terminal
       - pretty-json
       - sort-lines
+      - sort-lines
       - split-diff
       - teletype
+      - terminal-plus
       - terraform-fmt
       - todo-show
-      - terminal-plus
-      - sort-lines
 
     mas_packages:
       - { name: HyperDock, id: 449830122 }
