@@ -14,44 +14,45 @@ all:
       - homebrew/cask
 
     homebrew_cask_packages:
+      - 1password
       - alfred
       - docker
       - firefox
-      - google-chrome
-      - slack
       - firefox
+      - google-chrome
       - iterm2
-      - visual-studio-code-insiders
-      - 1password
       - java
+      - slack
+      - spotify
+      - visual-studio-code-insiders
 
     homebrew_packages:
       - byobu
-      - openssl
-      - watch
+      - docker
+      - drone
+      - gbt
       - go
+      - htop
+      - jq
       - kubernetes-cli
       - kubernetes-helm
-      - wget
-      - docker
-      - htop
+      - mas
+      - node
+      - npm
+      - openssl
+      - python
+      - python
+      - sbt
       - telnet
       - terraform
+      - tree
+      - vault
+      - watch
+      - wget
       - yarn
       - youtube-dl
-      - drone
-      - node
-      - python
-      - tree
-      - jq
-      - vault
-      - npm
-      - gbt
-      - python
       - zsh
       - zsh-completions
-      - mas
-      - sbt
 
     vscode_packages:
       - EditorConfig.EditorConfig
@@ -90,6 +91,8 @@ all:
       - teletype
       - terraform-fmt
       - todo-show
+      - terminal-plus
+      - sort-lines
 
     mas_packages:
       - { name: HyperDock, id: 449830122 }
