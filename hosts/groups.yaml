@@ -11,7 +11,7 @@ all:
     homebrew_taps:
       - drone/drone
       - jtyr/repo
-      - caskroom/cask
+      - homebrew/cask
 
     homebrew_cask_packages:
       - alfred
@@ -23,6 +23,7 @@ all:
       - iterm2
       - visual-studio-code-insiders
       - 1password
+      - java
 
     homebrew_packages:
       - byobu
@@ -49,6 +50,7 @@ all:
       - python
       - zsh
       - zsh-completions
+      - mas
       - sbt
 
     vscode_packages:
