@@ -24,7 +24,9 @@ all:
       - java
       - slack
       - spotify
+      - tunnelblick
       - visual-studio-code-insiders
+      - yubico-authenticator
 
     homebrew_packages:
       - byobu
