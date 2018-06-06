@@ -57,15 +57,33 @@ all:
       - zsh-completions
 
     vscode_packages:
-      - dbaeumer.vscode-eslint
-      - dsznajder.es7-react-js-snippets
+      - 2gua.rainbow-brackets
       - EditorConfig.EditorConfig
       - Equinusocio.vsc-material-theme
       - HookyQR.beautify
-      - leveluptutorials.theme-levelup
-      - msjsdiag.debugger-for-chrome
+      - OfHumanBondage.react-proptypes-intellisense
       - PKief.material-icon-theme
+      - aaron-bond.better-comments
+      - christian-kohler.npm-intellisense
+      - christian-kohler.path-intellisense
+      - cmstead.jsrefactor
+      - codezombiech.gitignore
+      - dbaeumer.vscode-eslint
+      - dsznajder.es7-react-js-snippets
+      - eamodio.gitlens
+      - eg2.vscode-npm-script
+      - formulahendry.auto-close-tag
+      - formulahendry.auto-rename-tag
+      - leveluptutorials.theme-levelup
+      - mikestead.dotenv
+      - mrmlnc.vscode-scss
+      - ms-python.python
+      - ms-vscode.atom-keybindings
+      - ms-vscode.Go
+      - msjsdiag.debugger-for-chrome
+      - sourcegraph.javascript-typescript
       - steoates.autoimport
+      - wesbos.theme-cobalt2
       - wix.vscode-import-cost
 
     atom_packages:
