@@ -20,6 +20,7 @@ all:
       - firefox
       - firefox
       - google-chrome
+      - google-cloud-sdk
       - iterm2
       - java
       - slack
