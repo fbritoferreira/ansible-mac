@@ -21,6 +21,7 @@ all:
       - firefox
       - google-chrome
       - google-cloud-sdk
+      - google-drive-file-stream    # Requires administrator password
       - iterm2
       - java
       - keybase
