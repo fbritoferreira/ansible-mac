@@ -23,6 +23,7 @@ all:
       - google-cloud-sdk
       - iterm2
       - java
+      - keybase
       - slack
       - spotify
       - tunnelblick
