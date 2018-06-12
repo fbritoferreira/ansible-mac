@@ -36,6 +36,7 @@ all:
       - drone
       - gbt
       - go
+      - gpg
       - htop
       - jq
       - kubernetes-cli
