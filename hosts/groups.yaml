@@ -9,6 +9,7 @@ all:
       - slack-cleaner
 
     homebrew_taps:
+      - caskroom/fonts
       - drone/drone
       - homebrew/cask
       - jtyr/repo
@@ -19,6 +20,7 @@ all:
       - docker
       - firefox
       - firefox
+      - font-bitstreamverasansmono-nerd-font-mono
       - google-chrome
       - google-cloud-sdk
       - google-drive-file-stream    # Requires administrator password
