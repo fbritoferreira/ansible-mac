@@ -57,6 +57,7 @@ all:
       - yarn
       - youtube-dl
       - zsh
+      - zsh-autosuggestions
       - zsh-completions
 
     vscode_packages:
