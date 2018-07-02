@@ -9,7 +9,7 @@ all:
       - slack-cleaner
 
     homebrew_taps:
-      - caskroom/fonts
+      - homebrew/cask-fonts
       - drone/drone
       - homebrew/cask
       - jtyr/repo
