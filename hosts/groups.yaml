@@ -122,3 +122,4 @@ all:
     mas_packages:
       - { name: HyperDock, id: 449830122 }
       - { name: Xcode, id: 497799835 }
+      - { name: Lastpass, id: 926036361 }
