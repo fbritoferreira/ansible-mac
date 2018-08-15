@@ -123,5 +123,4 @@ all:
       - { name: HyperDock, id: 449830122 }
       - { name: Xcode, id: 497799835 }
       - { name: Lastpass, id: 926036361 }
-      - { name: 1Password, id: 1333542190 }
       - { name: WhatsApp, id: 1147396723 }
